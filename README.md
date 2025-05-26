@@ -1,1 +1,1 @@
-# Ai_cs
+ai study case
