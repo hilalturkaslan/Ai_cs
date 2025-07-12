@@ -1,1 +1,1 @@
-ai example study case
+ai app for example study case
