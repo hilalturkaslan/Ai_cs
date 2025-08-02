@@ -1,1 +1,1 @@
-ai app for example study case
+ai app is study case
