@@ -1,1 +1,1 @@
-ai app is study case
+ai app is for ai study case
